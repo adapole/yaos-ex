@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Contributing to YAOS
+# Contributing to YAOS-EX
 
 First off, thanks for taking the time to contribute! :heart:
 
@@ -8,6 +8,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 > And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which I would also be very happy about:
 >
+> - Checkout the original project [here](https://github.com/mahyarmirrashed/yaos)
 > - Star the project :star:
 > - Tweet about it :bird:
 > - Refer this project in your project's `README.md`
@@ -31,11 +32,11 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 > If you want to ask a question, I assume that you have read the available [FAQ](./FAQ.md).
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/mahyarmirrashed/yaos/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing [Issues](https://github.com/adapole/yaos-ex/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, I recommend the following:
 
-- Open an [Issue](https://github.com/mahyarmirrashed/yaos/issues/new);
+- Open an [Issue](https://github.com/adapole/yaos-ex/issues/new);
 - Provide as much context as you can about what you're running into; and
 - Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
 
@@ -57,7 +58,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 - Make sure that you are using the latest version;
 - Determine if your bug is really a bug and not an error on your side (e.g. using incompatible environment components/versions);
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/mahyarmirrashed/yaos/issues?q=label%3Abug);
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/adapole/yaos-ex/issues?q=label%3Abug);
 - Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue;
 - Collect information about the bug:
   - Stack trace;
@@ -67,13 +68,13 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 <!-- omit in toc -->
 
-#### How Do I Submit a Good Bug Report?
+<!-- #### How Do I Submit a Good Bug Report? -->
 
-> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <mahyarmirrashed@users.noreply.github.com>.
+<!-- > You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <mahyarmirrashed@users.noreply.github.com>. -->
 
 <!-- You may add a PGP key to allow the messages to be sent encrypted as well. -->
 
-I use GitHub issues to track bugs and errors. If you run into an issue with the project:
+<!-- I use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
 - Open an [Issue](https://github.com/mahyarmirrashed/yaos/issues/new);
 - Explain the behaviour you would expect and the actual behaviour;
@@ -84,7 +85,7 @@ Once it's filed:
 
 - I'll label the issue accordingly;
 - A team member will try to reproduce the issue with your provided steps. If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps and mark the issue as `needs-repro`. Bugs with the `needs-repro` tag will not be addressed until they are reproduced.
-- If I'm able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution).
+- If I'm able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution). -->
 
 <!-- You might want to create an issue template for bugs and errors that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 

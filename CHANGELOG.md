@@ -1,6 +1,10 @@
+# [1.0.0] (2024-03-07)
 
+### Features
 
-# [0.7.0](https://github.com/mahyarmirrashed/yaos/compare/0.6.3...0.7.0) (2023-11-02)
+* All functionality in YAOS with additional settings configuration to support branch switching, and importing remote vaults.
+
+<!-- # [0.7.0](https://github.com/mahyarmirrashed/yaos/compare/0.6.3...0.7.0) (2023-11-02)
 
 
 ### Features
@@ -148,4 +152,4 @@
 
 ### Features
 
-* add ribbon icon for plugin ([9015ff4](https://github.com/mahyarmirrashed/yaos/commit/9015ff4e9064c58eb06d9131ce3307337cffedcf))
+* add ribbon icon for plugin ([9015ff4](https://github.com/mahyarmirrashed/yaos/commit/9015ff4e9064c58eb06d9131ce3307337cffedcf)) -->

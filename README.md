@@ -1,6 +1,8 @@
-# YAOS (Yet Another Obsidian Synchronizer) :arrows_clockwise:
+# YAOS-Ex (Yet Another Obsidian Synchronizer Extended) :arrows_clockwise:
 
-![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22yet-another-obsidian-synchronizer%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
+
+
+> **NOTE:** This is a fork of YAOS, for an extended version of YAOS to support team collaboration through git branch sync.
 
 YAOS is a minimalist Obsidian plugin designed to provide a simple and intuitive Git synchronization experience for your Obsidian vault. It's inspired by the simplicity of Obsidian's paid sync functionality and aims to bring that same ease of use to users who prefer to privately manage their vault with Git.
 
@@ -30,13 +32,13 @@ If there are conflicts between your local vault and the remote repository that c
 To install YAOS, follow these steps:
 
 1. In Obsidian, open "Settings" &rarr; "Community plugins".
-2. Click "Browse" and search for "Yet Another Obsidian Synchronizer".
+2. Click "Browse" and search for "Yet Another Obsidian Synchronizer Extended".
 3. Click "Install".
-4. In the "Installed plugins" section, enable "Yet Another Obsidian Synchronizer".
+4. In the "Installed plugins" section, enable "Yet Another Obsidian Synchronizer Extended".
 
 ## Contributing
 
-Contributions to YAOS are welcome! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file for more information.
+Contributions to YAOS-EX are welcome! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file for more information.
 
 ## License
 

@@ -1,1 +1,1 @@
-export const PLUGIN_NAME = "YAOS";
+export const PLUGIN_NAME = "YAOS-EX";
